@@ -62,18 +62,18 @@ instagram, yt, groupLink, memberLimit
 
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
-            + 'FN:Farhan\n'
-            + 'ORG:Creator FXC7;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=628311800241:+62 831-1800-241\n'
+            + 'FN:Sherlock\n'
+            + 'ORG:Creator Sherlock;\n'
+            + 'TEL;type=CELL;type=VOICE;waid=6282292119677:+62 822-9211-9677\n'
             + 'END:VCARD'
 
 prefix = "_"
-name = "~ F X C 7 | B O T"
+name = "~ Sherlock | B O T"
 rdaftar = "TERIMA KASIH TELAH DAFTAR😁"
-rmenu = "HAI TEMEN FXC7BOT👋"
+rmenu = "HAI TEMEN SherlockBOT👋"
 limitt = 50
 ban = []
-userpremium = ["628311800241@s.whatsapp.net"] //ubah nomer kalian
+userpremium = ["6282292119677@s.whatsapp.net"] // nomor kalian 
 
 function kyun(seconds){
   function pad(s){
